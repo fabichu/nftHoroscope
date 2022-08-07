@@ -1,0 +1,62 @@
+{
+	"0": {
+		"sign": "Aquarius",
+		"daySplit": "20",
+		"icon": "🏺"
+	},
+	"1": {
+		"sign": "Pisces",
+		"daySplit": "19",
+		"icon": "🐟"
+	},
+	"2": {
+		"sign": "Aries",
+		"daySplit": "21",
+		"icon": "🐏"
+	},
+	"3": {
+		"sign": "Taurus",
+		"daySplit": "20",
+		"icon": "🐂"
+	},
+	"4": {
+		"sign": "Gemini",
+		"daySplit": "21",
+		"icon": "👬🏻"
+	},
+	"5": {
+		"sign": "Cancer",
+		"daySplit": "21",
+		"icon": "🦀"
+	},
+	"6": {
+		"sign": "Leo",
+		"daySplit": "23",
+		"icon": "🦁"
+	},
+	"7": {
+		"sign": "Virgo",
+		"daySplit": "23",
+		"icon": "♍"
+	},
+	"8": {
+		"sign": "Libra",
+		"daySplit": "23",
+		"icon": "⚖️"
+	},
+	"9": {
+		"sign": "Scorpio",
+		"daySplit": "23",
+		"icon": "🦂"
+	},
+	"10": {
+		"sign": "Sagittarius",
+		"daySplit": "22",
+		"icon": "🏹"
+	},
+	"11": {
+		"sign": "Capricorn",
+		"daySplit": "22",
+		"icon": "🐐"
+	}
+}

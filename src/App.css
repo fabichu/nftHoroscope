@@ -23,3 +23,27 @@
   margin-block-start: 1em;
   margin-block-end: 1em;
 }
+
+.mintButton {
+  border: 3px solid #5DFDCB;
+  background-color: transparent;
+  padding: 0.5em 1em;
+  font-size: 20px;
+  font-weight: bold;
+  transition: all 0.2s ease-in-out;
+  margin: 1em;
+}
+
+.mintButton:hover {
+  background-color: #5DFDCB;
+  color: #fff;
+}
+
+.errorButton {
+  border: 3px solid #FF5252;
+  background-color: #FF5252;
+  padding: 0.5em 1em;
+  font-size: 20px;
+  margin: 1em;
+  color: #F4FAFF;
+}
