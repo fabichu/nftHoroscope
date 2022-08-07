@@ -9,3 +9,17 @@
   justify-content: center;
   align-items: center;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.selectors {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
